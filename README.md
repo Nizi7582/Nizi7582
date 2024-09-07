@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **znagui.nizaar@outlook.fr**
 
-- 📄 Know about my experiences [https://nizaar-znagui.web.app/](https://nizaar-znagui-cv.tiiny.site/)
+- 📄 Know about my experiences [https://nizaar-znagui-cv.tiiny.site/](https://nizaar-znagui-cv.tiiny.site/)
 
 - ⚡ Fun fact **I love cats**
 
