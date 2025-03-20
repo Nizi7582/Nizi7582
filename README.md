@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 👨‍💻 All of my projects are available at [https://nizaar-znagui.web.app/](https://nizaar-znagui.web.app/)
-
 - 📫 How to reach me **znagui.nizaar@outlook.fr**
 
 - 📄 Know about my experiences [https://nizaar-znagui-cv.tiiny.site/](https://nizaar-znagui-cv.tiiny.site/)
